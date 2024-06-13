@@ -51,4 +51,4 @@ To run a script:
 2. Ensure the Solidity file has already been compiled.
 3. The output from the script will appear in the Remix terminal.
 
-**Note: Require/import is supported in a limited manner for Remix supported modules. Supported modules include ethers, web3, swarmgw, chai, multihashes, remix, and hardhat (only for hardhat.ethers object/plugin). Unsupported modules will throw an error indicating that the module is not supported by Remix IDE.
+Important Note: Require/import is supported in a limited manner for Remix supported modules. Supported modules include ethers, web3, swarmgw, chai, multihashes, remix, and hardhat (only for hardhat.ethers object/plugin). Unsupported modules will throw an error indicating that the module is not supported by Remix IDE.
